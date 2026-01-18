@@ -5,7 +5,7 @@ Zoho Hover Rotation is a simple frontend project built using pure HTML and CSS t
 
 ## Introduction
 Zoho Hover Rotation is a frontend mini project developed using pure HTML and CSS.  
-This project demonstrates how smooth and interactive UI animations can be created using CSS hover effects and transforms without using JavaScript.
+This project demonstrates how smooth and interactive UI animations can be created using CSS hover effects and transforms
 
 The design is inspired by Zoho-style branding, focusing on clean visuals, smooth motion, and responsive layout.
 
@@ -13,6 +13,8 @@ The design is inspired by Zoho-style branding, focusing on clean visuals, smooth
 
 ## Overview
 This project is implemented as a single HTML file (`index.html`) with internal CSS styling.
+
+---
 
 ### Key Features
 - No JavaScript used
@@ -52,36 +54,30 @@ Smooth animation is handled using:
 ``css
 transition: all 1s ease-in-out;
 
-Transform Details
+---
 
-CSS transform is the core concept used in this project.
+## Transform Details
 
-Default State
-
-Elements are rotated by 45deg to form a diamond shape
-
-Inner text is counter-rotated to remain readable
-
-Hover State
-
-rotate(0deg) aligns the element normally
-
-rotateX() and rotateY() create a 3D depth effect
-
-scale() adds a subtle zoom effect
-
-Example:
-
-transform: rotate(0deg) rotateY(20deg) rotateX(15deg) scale(1.08);
+- CSS `transfor` is the core concept used in this project.
 
 
-These combined transforms create a Zoho-inspired motion effect using only CSS.
+## Default State:
 
-Technologies Used
+- Elements are rotated by 45deg to form a diamond shape
 
-HTML5
+- Inner text is counter-rotated to remain readable
 
-CSS3 (Flexbox, Transforms, Transitions)
+## Hover State:
+
+- `rotate aligns` the element normally
+
+
+
+## Technologies Used
+
+- HTML5
+
+- CSS3
 
 ---
 
@@ -121,6 +117,8 @@ https://github.com/user-attachments/assets/654d7635-9af0-44e9-9613-8f6ed80b936e
 ## Conclusion
 
 Zoho Hover Rotation proves that interactive and modern UI animations can be built using only HTML and CSS.
-By effectively using CSS Flexbox, transitions, and transforms, this project delivers a smooth and professional user experience without adding JavaScript complexity.
+
+
+By effectively using CSS Flexbox, transitions, and transforms, this project delivers a smooth and professional
 
 This project is ideal for beginners and frontend developers who want to strengthen their understanding of CSS animations and hover-based interactions.
