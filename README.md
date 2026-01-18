@@ -51,8 +51,8 @@ The interactive behavior is achieved using the CSS `:hover` pseudo-class.
 - Brightness increases to highlight the active element
 
 Smooth animation is handled using:
-``css
-transition: all 1s ease-in-out;
+`css
+transition: all 1s ease-in-out`;
 
 ---
 
