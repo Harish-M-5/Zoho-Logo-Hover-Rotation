@@ -1,7 +1,6 @@
 # Zoho-Logo-Hover-Rotation
-Zoho Hover Rotation is a simple frontend project built using pure HTML and CSS that demonstrates smooth hover-based rotation and 3D transform effects without using JavaScript. The design is responsive, lightweight, and inspired by Zoho-style UI animations.
 
----
+
 
 ## Introduction
 Zoho Hover Rotation is a frontend mini project developed using pure HTML and CSS.  
@@ -17,9 +16,7 @@ This project is implemented as a single HTML file (`index.html`) with internal C
 ---
 
 ### Key Features
-- No JavaScript used
 - Responsive design using `vw` and `vh`
-- Hover-based rotation and 3D tilt effects
 - Smooth animation using CSS transitions
 - Simple and clean UI design
 
@@ -43,6 +40,7 @@ Flexbox helps in maintaining a clean and scalable layout without complex positio
 
 ## Hover Effect Details
 The interactive behavior is achieved using the CSS `:hover` pseudo-class.
+
 
 ### On Hover
 - The element rotates from a diamond shape to a straight position
@@ -71,6 +69,7 @@ transition: all 1s ease-in-out`;
 
 - `rotate aligns` the element normally
 
+---
 
 
 ## Technologies Used
@@ -83,15 +82,12 @@ transition: all 1s ease-in-out`;
 
 ## Key Highlights
 
-- 100% HTML and CSS project
-
-- No JavaScript dependency
 
 - Responsive and lightweight design
 
 - Clean and modern UI animation
 
-- Suitable for college projects and portfolios
+- Suitable for college students 
 
 ---
 
